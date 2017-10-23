@@ -1,0 +1,100 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Tue, 26 Sep 2017 09:59:17 +0300
+Received: from o2.sendgrid.piazza.com ([167.89.56.231])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1dwjpo-0003q8-Sa
+	for b21727762@cs.hacettepe.edu.tr; Tue, 26 Sep 2017 09:59:16 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:references:subject:mime-version:content-type; s=s1; 
+	bh=aT+MJKvm8oATKTgNu9Q641s2CB0=; b=QgGOJsYQfkSylJcXDd8QyHAz6Tev0
+	90Bn1zEMoIFkYyfeZZqbhvPWzK56mDcs1JPaR+2RsV9t2EjzljDG24dAtM3X1QOx
+	fvrRIOY8mb5MTXtpMFonzRgCIatrXtypoZWs8cpjWLCyUXUTLEErkjo3GZ67/lnP
+	QE7RbKrufuBP/8=
+Received: by filter0690p1mdw1.sendgrid.net with SMTP id filter0690p1mdw1-1635-59C9FA9D-4
+        2017-09-26 06:58:37.044969516 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-52-70-131-42.compute-1.amazonaws.com [52.70.131.42])
+	by ismtpd0023p1mdw1.sendgrid.net (SG) with ESMTP id wb2YO7tzTqattUf5nfRJ-g
+	for <b21727762@cs.hacettepe.edu.tr>; Tue, 26 Sep 2017 06:58:37.048 +0000 (UTC)
+Date: Tue, 26 Sep 2017 06:58:37 +0000 (UTC)
+From: Piazza Team <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <757363500.423701.1506409117078@prod-qa-app02.ae.piazza.com>
+References: <j818sg9nw1m7cl_u@piazza.com>
+Subject: BBM 105 dropped on Piazza
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_423700_1737929010.1506409117017"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCAmOyFe/yEwSN0J7xjFjig7LiQahm/WKReXPF
+ rHbw7v4b1YYvfif0Uoo+V2fEhGwGmj2LDbQslcItftAHx+1Dsztx2DGp6fjutp0w10TlH+ii5P+XkQ
+ wq9IrtGivXoVN7qSjs/jaTAOp7Dx+gsyRxdRAo3di8c0lNxZkuwIg2HdG6buxSAbIe77pAsqQFEImE
+ 4=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  Hello, This is a courtesy email to let you know that b21727762@cs.hacettepe.edu.tr
+    has been dropped from BBM 105 on Piazza. If you think this may be an error,
+    please contact your instructor to confirm your un-enrollment. Or, visit www.piazza.com
+    to sign up for this class again. [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_423700_1737929010.1506409117017
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_423699_1585171140.1506409117017"
+
+------=_Part_423699_1585171140.1506409117017
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+This is a courtesy email to let you know that b21727762@cs.hacettepe.edu.tr has been dropped from BBM 105 on Piazza.  If you think this may be an error, please contact your instructor to confirm your un-enrollment. Or, visit www.piazza.com to sign up for this class again.
+
+If this is correct, no action on your end is needed.
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+------=_Part_423699_1585171140.1506409117017
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+Hello,<br>
+<br>
+This is a courtesy email to let you know that b21727762@cs.hacettepe.edu.tr has been dropped from BBM 105 on Piazza.  If you think this may be an error, please contact your instructor to confirm your un-enrollment. Or, visit www.piazza.com to sign up for this class again.<br>
+<br>
+If this is correct, no action on your end is needed.<br>
+<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br>
+</html>
+------=_Part_423699_1585171140.1506409117017--
+
+------=_Part_423700_1737929010.1506409117017--

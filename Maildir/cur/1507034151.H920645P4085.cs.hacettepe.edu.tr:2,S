@@ -1,0 +1,176 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Tue, 03 Oct 2017 15:35:52 +0300
+Received: from o2.sendgrid.piazza.com ([167.89.56.231])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1dzMQF-00081x-PB
+	for b21727762@cs.hacettepe.edu.tr; Tue, 03 Oct 2017 15:35:51 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:in-reply-to:references:subject:mime-version:content-type; 
+	s=s1; bh=99L21OiHfQ2ZLi0JYZeBVQ1lgYs=; b=db0XaVS3c+wubvk5Wue0zQ8
+	5XuP7BbIRNTPSyvGWa30gMApifDDi+YFTvZjUOVlJBuceIOQszNo+jQHfmi9JEmP
+	+XLVU1/QtWlYqh2fM+chcekoWJv9jjHf+grmnOo/iOCyi7P2sFnp84o73JQAROPv
+	+FHTI8FXQ8vAhw9f7O6U=
+Received: by filter0560p1mdw1.sendgrid.net with SMTP id filter0560p1mdw1-23634-59D3836D-14
+        2017-10-03 12:32:45.314872455 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-52-70-131-42.compute-1.amazonaws.com [52.70.131.42])
+	by ismtpd0031p1mdw1.sendgrid.net (SG) with ESMTP id e_EgIHPuSP29CPzOHo3aOw
+	for <b21727762@cs.hacettepe.edu.tr>; Tue, 03 Oct 2017 12:32:45.285 +0000 (UTC)
+Date: Tue, 03 Oct 2017 12:32:45 +0000 (UTC)
+From: BBM 105 on Piazza <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <j8bl3v8jmf15yp@piazza.com>
+In-Reply-To: <j8bl3v8jmf15yp@piazza.com>
+References: <j8bl3v8jmf15yp@piazza.com>
+Subject: [Instr Note] Slides for 2nd week and Reference Book
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_9813_1083647426.1507033965261"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCBVnk/69LefaPSfmAGsLPdz5cf9CT97jowmeN
+ SMu+UALWmFMgSrW+ofX5gXmPTwZE8OyKIIjKpbFs0F42CH++PVu49ww/aDvfoPLuTgkczGpUc5i1Bq
+ 0TK/UMlIJC6XDYmR5OYHWWAYXdGh6mFay61iH1jv+BgU1oc/g938YnEYVsQG/i9qkf/uXA/6xot2gX
+ 0=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  You're receiving this email because b21727762@cs.hacettepe.edu.tr
+    is enrolled in BBM 105 at Hacettepe University. Instructor Aydın Kaya posted
+    a new Note. Your instructor selected to notify everyone in real time of this
+    post, bypassing user email preferences. [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_9813_1083647426.1507033965261
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_9812_540676117.1507033965261"
+
+------=_Part_9812_540676117.1507033965261
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 105 at Hacettepe University.=20
+
+Instructor Ayd=C4=B1n Kaya posted a new Note. Your instructor selected to n=
+otify everyone in real time of this post, bypassing user email preferences.
+
+Slides for 2nd week and Reference Book
+
+Dear all,
+
+We share the ppt slides for second week (Binary representations and Von Neu=
+mann Architecture). You may read the related sections (5.2,5.3 and, 5.4) on=
+ the reference book.
+
+Reference Book:
+Scneider, Gersting, Invitation to Computer Science (Introduction to CS), 6t=
+h Edition,=C2=A0ISBN-13:=C2=A0978-1133190820.
+
+Have a nice day.
+
+BBM105LEC2BinaryVon_Neumann.pptx
+
+
+
+
+
+Go to https://piazza.com/class?cid=3Dj8bl3v8jmf15yp&nid=3Dj804ya9dg7s6en&to=
+ken=3DMChpgtco9XO to view. Search or link to this question with @6.=20=20
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 105 at Hacettepe University. Go to https://piazza.com/class?cid=
+=3Dj8bl3v8jmf15yp&nid=3Dj804ya9dg7s6en&token=3DMChpgtco9XO to set up your a=
+ccount or proceed to https://piazza.com/remove/MChpgtco9XO/j804ya9dg7s6en t=
+o un-enroll from this class.
+If you already have a Piazza account under another email address, link b217=
+27762@cs.hacettepe.edu.tr to that account here: https://piazza.com/link_acc=
+ounts/MChpgtco9XO=
+
+------=_Part_9812_540676117.1507033965261
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 105 at Hacettepe University. <br><br>Instructor Ayd=C4=B1n Kaya p=
+osted a new Note. Your instructor selected to notify everyone in real time =
+of this post, bypassing user email preferences.<br><br>
+<b>Slides for 2nd week and Reference Book</b><br>
+<br>
+<p>Dear all,</p>
+<p></p>
+<p>We share the ppt slides for second week (Binary representations and Von =
+Neumann Architecture). You may read the related sections (5.2,5.3 and, 5.4)=
+ on the reference book.</p>
+<p></p>
+<p>Reference Book:</p>
+<p>Scneider, Gersting, Invitation to Computer Science (Introduction to CS),=
+ 6th Edition,=C2=A0ISBN-13:=C2=A0978-1133190820.</p>
+<p></p>
+<p>Have a nice day.</p>
+<p></p>
+<p><a href=3D"https://d1b10bmlvqabco.cloudfront.net/attach/j804ya9dg7s6en/h=
+hmb8jrcudr4f6/j8bl9u5sat9f/BBM105LEC2BinaryVon_Neumann.pptx" target=3D"_bla=
+nk">BBM105LEC2BinaryVon_Neumann.pptx</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<br>
+<br>
+<a href=3D"https://piazza.com/class?cid=3Dj8bl3v8jmf15yp&nid=3Dj804ya9dg7s6=
+en&token=3DMChpgtco9XO">Click here</a> to view. Search or link to this ques=
+tion with @6.   <br><br>
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br><br><br>
+<font size=3D'-2'>
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 105 at Hacettepe University. <a href=3D'https://piazza.com/class?=
+cid=3Dj8bl3v8jmf15yp&nid=3Dj804ya9dg7s6en&token=3DMChpgtco9XO'>Set up your =
+account</a> or <a href=3D'https://piazza.com/remove/MChpgtco9XO/j804ya9dg7s=
+6en'>un-enroll</a> from this class.<br>If you already have a Piazza account=
+ under another email address, link b21727762@cs.hacettepe.edu.tr to that ac=
+count <a href=3D'https://piazza.com/link_accounts/MChpgtco9XO'>here</a>.</f=
+ont>
+</html>
+
+------=_Part_9812_540676117.1507033965261--
+
+------=_Part_9813_1083647426.1507033965261--

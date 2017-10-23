@@ -1,0 +1,143 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Tue, 26 Sep 2017 09:51:18 +0300
+Received: from o4.sendgrid.piazza.com ([167.89.101.215])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1dwji8-0000Oq-Ay
+	for b21727762@cs.hacettepe.edu.tr; Tue, 26 Sep 2017 09:51:17 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:references:subject:mime-version:content-type; s=s1; 
+	bh=E7pqh+Zc+Xkax5L+5vUogBoSemc=; b=JHZ7islrXhW1N6+/zeNT7VXPOFqs7
+	1WHAvSmOXXxI9Zukm5+bu3Lu6WpeDC8lniNeRhCe0Qk/JP0fDVF9ACsdONSifFUo
+	DP+3uiNYP9me2pMuPZ1YyEz3jqAfmv/9YZRgaD9Uq/nvg8O+Itcx+VX9cBCka74i
+	XE5Y4FquzvSG6Y=
+Received: by filter0465p1mdw1.sendgrid.net with SMTP id filter0465p1mdw1-26760-59C9F8B6-7
+        2017-09-26 06:50:30.197886448 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-52-70-131-42.compute-1.amazonaws.com [52.70.131.42])
+	by ismtpd0047p1mdw1.sendgrid.net (SG) with ESMTP id m4fZKwC-TGmxQEN9Z-q3uA
+	for <b21727762@cs.hacettepe.edu.tr>; Tue, 26 Sep 2017 06:50:30.151 +0000 (UTC)
+Date: Tue, 26 Sep 2017 06:50:30 +0000 (UTC)
+From: Piazza Team <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <679798442.421875.1506408630164@prod-qa-app02.ae.piazza.com>
+References: <j818sg9nw1m7cl_u@piazza.com>
+Subject: =?UTF-8?Q?Ayd=C4=B1n_Kaya_welcomes_you_to_BBM_105,_Hacettepe_University?=
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_421874_483756429.1506408630102"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCDjmiw1sTm2LqvzxZIRTbYcO+HCGTpN0zJtXw
+ cd1ch2pWRsuCwiLjGZiHZS08xs2WQaX7GZzzm39PrB2UqIdqnNEXWMViUDo0ifJLh/CeiKlHRaRsL8
+ S1ReCioBdKhhyPDO10HYG+UOSpNbLGyAPmazTVRogkyKvdDUERl7Gx38NOslj20tNeO7BXr85YHGFX
+ o=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  Welcome to Piazza! Aydın Kaya, an instructor for BBM 105,
+    has enrolled b21727762@cs.hacettepe.edu.tr on Piazza, which BBM 105 is using
+    for class Q&A this term. Get Started. Follow this link to activate your account
+    and set your password: https://www.piazza.com/first_login?token=MChpgtco9XO&mc_id=pw_2
+    Or, if prompted, enter this activation code: MChpgtco9XO [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_421874_483756429.1506408630102
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_421873_1260641216.1506408630102"
+
+------=_Part_421873_1260641216.1506408630102
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to Piazza!
+Ayd=C4=B1n Kaya, an instructor for BBM 105, has enrolled b21727762@cs.hacet=
+tepe.edu.tr on Piazza, which  BBM 105 is using for class Q&A this term.
+
+Get Started.
+Follow this link to activate your account and set your password: https://ww=
+w.piazza.com/first_login?token=3DMChpgtco9XO&mc_id=3Dpw_2
+Or, if prompted, enter this activation code: MChpgtco9XO
+
+If you already have an account under a different email address, link b21727=
+762@cs.hacettepe.edu.tr to your account https://piazza.com/link_accounts/MC=
+hpgtco9XO.
+
+What's Piazza?
+Piazza is designed to connect students, TAs, and professors so every studen=
+t can get the help they need when they need it.  You can connect to your cl=
+ass anywhere and anytime from your computer or our free iPhone and Android =
+apps.
+
+**You can configure your email preferences by visiting your Account Setting=
+s page.
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com=
+
+------=_Part_421873_1260641216.1506408630102
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<b>Welcome to Piazza!</b><br>Ayd=C4=B1n Kaya, an instructor for BBM 105, ha=
+s enrolled b21727762@cs.hacettepe.edu.tr on Piazza, which  BBM 105 is using=
+ for class Q&A this term.
+<br>
+<br>
+<b>Get Started!</b><br>
+Follow this link to activate your account and set your password: https://ww=
+w.piazza.com/first_login?token=3DMChpgtco9XO&mc_id=3Dpw_2<br>
+
+Or, if prompted, enter this activation code: <b>MChpgtco9XO</b><br>
+<br>
+ If you already have an account under a different email address, link b2172=
+7762@cs.hacettepe.edu.tr to your account <a href=3Dhttps://piazza.com/link_=
+accounts/MChpgtco9XO>here</a>.<br>
+<br>
+<b>What is Piazza?</b><br>
+Piazza is designed to connect students, TAs, and professors so every studen=
+t can get the help they need when they need it.  You can connect to your cl=
+ass anywhere and anytime from your computer or our free iPhone and Android =
+apps.<br>
+<br>
+**You can configure your email preferences by visiting your Account Setting=
+s page.<br>
+<br>
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!<br>
+<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br>
+</html>
+
+------=_Part_421873_1260641216.1506408630102--
+
+------=_Part_421874_483756429.1506408630102--

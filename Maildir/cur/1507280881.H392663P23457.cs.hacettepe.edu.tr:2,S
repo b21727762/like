@@ -1,0 +1,224 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Fri, 06 Oct 2017 12:08:01 +0300
+Received: from o2.sendgrid.piazza.com ([167.89.56.231])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1e0Obl-0003mk-OE
+	for b21727762@cs.hacettepe.edu.tr; Fri, 06 Oct 2017 12:08:01 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:in-reply-to:references:subject:mime-version:content-type; 
+	s=s1; bh=2elao6vBBtrTccFtzPpNcmtvlD4=; b=H5ppRnZYjpB+9xWCMskrx6x
+	TM3/ikeBPXPo5gOZcUDfBBxb7nHZ/9GKcK5xACpHE6rCzWuEr00dm60GBzpbPcVz
+	3WOzdzWwEYSb4TjEOGsbDFT17wXpUEVTg8GKqxVYewdwVqK5NBkLCV5CWTNCQCoZ
+	6EuBh6KLTrf9CW6DYIHQ=
+Received: by filter0944p1mdw1.sendgrid.net with SMTP id filter0944p1mdw1-9767-59D7473F-10
+        2017-10-06 09:05:03.362873293 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-52-201-154-246.compute-1.amazonaws.com [52.201.154.246])
+	by ismtpd0047p1mdw1.sendgrid.net (SG) with ESMTP id D_nOzF86SFySuoiFMqQAmA
+	for <b21727762@cs.hacettepe.edu.tr>; Fri, 06 Oct 2017 09:05:03.412 +0000 (UTC)
+Date: Fri, 06 Oct 2017 09:05:03 +0000 (UTC)
+From: BBM 101 on Piazza <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <j8fo05o9rma4z4@piazza.com>
+In-Reply-To: <j8fo05o9rma4z4@piazza.com>
+References: <j8fo05o9rma4z4@piazza.com>
+Subject: [Instr Note] Assignment 1
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_424873_1063567445.1507280703447"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCA/u01ivAQo9bajooWTXEN4HZYIY4GVZDtkZr
+ FUxGxu3JqCgiUdSEI31XiHPi7HvFneH1uQ2Rn+vL2l6V3M0eEw9g/ScR+WU/dOnhJ+qT3LZN8Y+3GZ
+ F29ZXJwEGmnNMyl/O/XF9AY05+7+uDLQvKKvKexIY9PCZb56bSPy7VrglGNZfo7I43cpzH5SS2T7R2
+ A=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  You're receiving this email because b21727762@cs.hacettepe.edu.tr
+    is enrolled in BBM 101 at Hacettepe University. Instructor Selma Dilek posted
+    a new Note. Your instructor selected to notify everyone in real time of this
+    post, bypassing user email preferences. [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_424873_1063567445.1507280703447
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_424872_372995356.1507280703447"
+
+------=_Part_424872_372995356.1507280703447
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 101 at Hacettepe University.=20
+
+Instructor Selma Dilek posted a new Note. Your instructor selected to notif=
+y everyone in real time of this post, bypassing user email preferences.
+
+Assignment 1
+
+Dear students,
+
+your first assignment will help you get familiar with GitHub Classroom envi=
+ronment which you will use for submission of all future assignments and qui=
+zzes.
+
+Download the Assignment PDF file: Assignment1.pdf
+You need to click on the link given in the PDF file to accept the assignmen=
+t and get started.
+
+In order to help you with your first encounter with GitHub Classroom, here =
+are the example commands and steps for cloning a GitHub repository and push=
+ing and pulling files:
+
+cd ~=C2=A0 (go to home directory)cd Desktop=C2=A0=C2=A0 =C2=A0(go to Deskto=
+p, or any other directory of your choice)git clone <address of your reposit=
+ory> - e.g. git clone https://github.com/bxxxxxxx/Assignment1.git=C2=A0 (cl=
+one your repository)cd=C2=A0 <name of your repository> - e.g. cd Assignment=
+1 (go to your repository folder)echo "Here you can type your README text" >=
+> README.md=C2=A0 (create a file named READMe.md)Copy and paste your projec=
+t filesgit init=C2=A0 (create an empty Git repository or reinitialize an ex=
+isting one)git status (check the current state of the repository)git add .=
+=C2=A0 (add all file contents to the index)git statusgit commit -m "Write a=
+ message about the change you made"=C2=A0 (record changes to the repository=
+)git push origin master=C2=A0 (update remote refs along with associated obj=
+ects)If your online repository gets changed, to pull it to our local comput=
+er use:git pull origin master=C2=A0 (fetch from your repository)
+
+Note for non-Linux users: Download Git Bash from Internet to be able to use=
+ these commands on your computer.
+
+Assignment 1 Grading Policy:
+
+We expect you to follow through all the given steps of the assignment if yo=
+u want to get a full grade. Assignments missing commits will be graded only=
+ 50%. Assignments missing pushed code will be graded 0.
+
+Good luck!
+
+
+
+Go to https://piazza.com/class?cid=3Dj8fo05o9rma4z4&nid=3Dj805padu49776h&to=
+ken=3DMChpgtco9XO to view. Search or link to this question with @13.=20=20
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 101 at Hacettepe University. Go to https://piazza.com/class?cid=
+=3Dj8fo05o9rma4z4&nid=3Dj805padu49776h&token=3DMChpgtco9XO to set up your a=
+ccount or proceed to https://piazza.com/remove/MChpgtco9XO/j805padu49776h t=
+o un-enroll from this class.
+If you already have a Piazza account under another email address, link b217=
+27762@cs.hacettepe.edu.tr to that account here: https://piazza.com/link_acc=
+ounts/MChpgtco9XO=
+
+------=_Part_424872_372995356.1507280703447
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 101 at Hacettepe University. <br><br>Instructor Selma Dilek poste=
+d a new Note. Your instructor selected to notify everyone in real time of t=
+his post, bypassing user email preferences.<br><br>
+<b>Assignment 1</b><br>
+<br>
+<p>Dear students,</p>
+<p></p>
+<p>your first assignment will help you get familiar with GitHub Classroom e=
+nvironment which you will use for submission of all future assignments and =
+quizzes.</p>
+<p></p>
+<p>Download the Assignment PDF file: <a href=3D"https://d1b10bmlvqabco.clou=
+dfront.net/attach/j805padu49776h/itmvemweb267cd/j8fner8jzrgf/Assignment1v1.=
+3.pdf" target=3D"_blank">Assignment1.pdf</a></p>
+<p><strong>You need to click on the link given in the PDF file to accept th=
+e assignment and get started.</strong></p>
+<p></p>
+<p>In order to help you with your first encounter with GitHub Classroom, he=
+re are the example commands and steps for cloning a GitHub repository and p=
+ushing and pulling files:</p>
+<p></p>
+<pre>cd ~=C2=A0 (go to home directory)<br />cd Desktop=C2=A0=C2=A0 =C2=A0(g=
+o to Desktop, or any other directory of your choice)<br />git clone &lt;add=
+ress of your repository&gt; - e.g. git clone https://github.com/bxxxxxxx/As=
+signment1.git=C2=A0 (clone your repository)<br />cd=C2=A0 &lt;name of your =
+repository&gt; - e.g. cd Assignment1 (go to your repository folder)<br />ec=
+ho &#34;Here you can type your README text&#34; &gt;&gt; README.md=C2=A0 (c=
+reate a file named READMe.md)<br />Copy and paste your project files<br />g=
+it init=C2=A0 (create an empty Git repository or reinitialize an existing o=
+ne)<br />git status (check the current state of the repository)<br />git ad=
+d .=C2=A0 (add all file contents to the index)<br />git status<br />git com=
+mit -m &#34;Write a message about the change you made&#34;=C2=A0 (record ch=
+anges to the repository)<br />git push origin master=C2=A0 (update remote r=
+efs along with associated objects)<br /><br />If your online repository get=
+s changed, to pull it to our local computer use:<br />git pull origin maste=
+r=C2=A0 (fetch from your repository)</pre>
+<p></p>
+<p><strong>Note for non-Linux users: </strong>Download Git Bash from Intern=
+et to be able to use these commands on your computer.</p>
+<p></p>
+<p><strong>Assignment 1 Grading Policy:</strong></p>
+<p></p>
+<p>We expect you to follow through all the given steps of the assignment if=
+ you want to get a full grade. Assignments missing commits will be graded o=
+nly 50%. Assignments missing pushed code will be graded 0.</p>
+<p></p>
+<p>Good luck!</p>
+<p></p>
+<p></p>
+<br>
+<br>
+<a href=3D"https://piazza.com/class?cid=3Dj8fo05o9rma4z4&nid=3Dj805padu4977=
+6h&token=3DMChpgtco9XO">Click here</a> to view. Search or link to this ques=
+tion with @13.   <br><br>
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br><br><br>
+<font size=3D'-2'>
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 101 at Hacettepe University. <a href=3D'https://piazza.com/class?=
+cid=3Dj8fo05o9rma4z4&nid=3Dj805padu49776h&token=3DMChpgtco9XO'>Set up your =
+account</a> or <a href=3D'https://piazza.com/remove/MChpgtco9XO/j805padu497=
+76h'>un-enroll</a> from this class.<br>If you already have a Piazza account=
+ under another email address, link b21727762@cs.hacettepe.edu.tr to that ac=
+count <a href=3D'https://piazza.com/link_accounts/MChpgtco9XO'>here</a>.</f=
+ont>
+</html>
+
+------=_Part_424872_372995356.1507280703447--
+
+------=_Part_424873_1063567445.1507280703447--

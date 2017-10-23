@@ -1,0 +1,129 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Tue, 03 Oct 2017 15:33:42 +0300
+Received: from o3.sendgrid.piazza.com ([167.89.56.233])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1dzMO0-0005MH-4Y
+	for b21727762@cs.hacettepe.edu.tr; Tue, 03 Oct 2017 15:33:41 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:in-reply-to:references:subject:mime-version:content-type; 
+	s=s1; bh=P+pTDtQKJNr+xGkK31QB2uHbPUA=; b=IndshInomUuezLxiBgwuuY7
+	u1c1+XG8ZlvvpEe/LcYMXxKvMQl+7b6zPGBBt/jiU+UZnqV+pAneyRE2skscFOaA
+	wqQ6l/ui8Q3YV9JYVxJIlxtLbu39Z8pj9GHkEam6UMBzKUu5weQBPzHiUrb15Lx+
+	EsPCxHJwQen8j579lNLM=
+Received: by filter0611p1mdw1.sendgrid.net with SMTP id filter0611p1mdw1-6506-59D382F2-16
+        2017-10-03 12:30:42.572432102 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-34-202-251-202.compute-1.amazonaws.com [34.202.251.202])
+	by ismtpd0043p1mdw1.sendgrid.net (SG) with ESMTP id bh98QIvPRaqwJ0o7ruA9Ng
+	for <b21727762@cs.hacettepe.edu.tr>; Tue, 03 Oct 2017 12:30:42.556 +0000 (UTC)
+Date: Tue, 03 Oct 2017 12:30:42 +0000 (UTC)
+From: BBM 101 on Piazza <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <j8bl0y8xio54hc@piazza.com>
+In-Reply-To: <j8bl0y8xio54hc@piazza.com>
+References: <j8bl0y8xio54hc@piazza.com>
+Subject: [Instr Note] Python as an Embedded Language
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_7958_1567468632.1507033842506"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCA2bEdFiFJpZbFLJmMmVpkCZiADYNryZmkFMz
+ PXNAd76Mm5Kr0rULXhh51SzdZpDsIw7p2dO0j5msjQzRcwTubaBjFSkRZki+w3xPharNH3cEutjieA
+ eFJWDecaLnTyV2ToKwDjUNNDMYxa49dEQL8rlTKPYgbRYr5pH3EWfYGVfnk9oQ/5D49H6I3Ellpxrf
+ w=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  You're receiving this email because b21727762@cs.hacettepe.edu.tr
+    is enrolled in BBM 101 at Hacettepe University. Instructor Selma Dilek posted
+    a new Note. Python as an Embedded Language [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_7958_1567468632.1507033842506
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_7957_1725036249.1507033842506"
+
+------=_Part_7957_1725036249.1507033842506
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. 
+
+Instructor Selma Dilek posted a new Note. 
+
+Python as an Embedded Language
+
+Hi everyone,
+
+click here to read an interesting article from this month's IEEE Spectrum magazine about a project in which Python is used as an embedded language. A PDF version of the article is available here: IEEE_Spectrum_Oct_2017-Embedded_Python.pdf.
+
+This is not mandatory reading material, I just thought some of you may find this intriguing, especially those students who are interested in microcontroller based projects. It is nice to know that Python can be an alternative to conventional embedded development tools.
+
+See you in lab!
+
+Go to https://piazza.com/class?cid=j8bl0y8xio54hc&nid=j805padu49776h&token=MChpgtco9XO to view. Search or link to this question with @10.  
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. Go to https://piazza.com/class?cid=j8bl0y8xio54hc&nid=j805padu49776h&token=MChpgtco9XO to set up your account or proceed to https://piazza.com/remove/MChpgtco9XO/j805padu49776h to un-enroll from this class.
+If you already have a Piazza account under another email address, link b21727762@cs.hacettepe.edu.tr to that account here: https://piazza.com/link_accounts/MChpgtco9XO
+------=_Part_7957_1725036249.1507033842506
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. <br><br>Instructor Selma Dilek posted a new Note. <br><br>
+<b>Python as an Embedded Language</b><br>
+<br>
+<p>Hi everyone,</p>
+<p></p>
+<p><a href="https://spectrum.ieee.org/geek-life/hands-on/build-an-illuminated-halloween-costume-with-the-wearable-gemma-m0-microcontroller" target="_blank">click here</a> to read an interesting article from this month&#39;s <a href="https://spectrum.ieee.org/" target="_blank">IEEE Spectrum</a> magazine about a project in which Python is used as an embedded language. A PDF version of the article is available here: <a href="https://d1b10bmlvqabco.cloudfront.net/attach/j805padu49776h/itmvemweb267cd/j8bkhwa0n7wr/IEEE_Spectrum_Oct_2017Embedded_Python.pdf" target="_blank">IEEE_Spectrum_Oct_2017-Embedded_Python.pdf</a>.</p>
+<p></p>
+<p>This is <strong>not</strong> mandatory reading material, I just thought some of you may find this intriguing, especially those students who are interested in microcontroller based projects. It is nice to know that Python can be an alternative to conventional embedded development tools.</p>
+<p></p>
+<p>See you in lab!</p>
+<br>
+<br>
+<a href="https://piazza.com/class?cid=j8bl0y8xio54hc&nid=j805padu49776h&token=MChpgtco9XO">Click here</a> to view. Search or link to this question with @10.   <br><br>
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br><br><br>
+<font size='-2'>
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. <a href='https://piazza.com/class?cid=j8bl0y8xio54hc&nid=j805padu49776h&token=MChpgtco9XO'>Set up your account</a> or <a href='https://piazza.com/remove/MChpgtco9XO/j805padu49776h'>un-enroll</a> from this class.<br>If you already have a Piazza account under another email address, link b21727762@cs.hacettepe.edu.tr to that account <a href='https://piazza.com/link_accounts/MChpgtco9XO'>here</a>.</font>
+</html>
+
+------=_Part_7957_1725036249.1507033842506--
+
+------=_Part_7958_1567468632.1507033842506--

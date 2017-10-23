@@ -1,0 +1,67 @@
+Return-path: <selma@cs.hacettepe.edu.tr>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Sat, 07 Oct 2017 19:05:55 +0300
+Received: from [127.0.0.1] (helo=webmail.cs.hacettepe.edu.tr)
+	by cs.hacettepe.edu.tr with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <selma@cs.hacettepe.edu.tr>)
+	id 1e0rbu-0002i6-8G
+	for b21727762@cs.hacettepe.edu.tr; Sat, 07 Oct 2017 19:05:54 +0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Sat, 07 Oct 2017 19:05:54 +0300
+From: Selma Dilek <selma@cs.hacettepe.edu.tr>
+To: =?UTF-8?Q?Fatma_Nurb=C3=BCke_Teker?= <b21727762@cs.hacettepe.edu.tr>
+Subject: Re: BBM101
+In-Reply-To: <45676b5ef6846a97e4df9933b39e4f9a@cs.hacettepe.edu.tr>
+References: <45676b5ef6846a97e4df9933b39e4f9a@cs.hacettepe.edu.tr>
+Message-ID: <056909deb75f96e2e8b99968ecc6ec86@cs.hacettepe.edu.tr>
+X-Sender: selma@cs.hacettepe.edu.tr
+User-Agent: Roundcube Webmail/1.1.9
+X-Spam-Score: -2.9 (--)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  Are you sure that you are typing your password correctly?
+   A student came to me with the same "problem", but then when he tried to connect
+    in the lab he was successful. He must have mistyped his password the first
+    time, because your passwords are the same as for your e-mail account. No
+   characters will be printed, but be careful about uppercase letters and special
+    characters. [...] 
+ 
+ Content analysis details:   (-2.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+
+Are you sure that you are typing your password correctly? A student came 
+to me with the same "problem", but then when he tried to connect in the 
+lab he was successful. He must have mistyped his password the first 
+time, because your passwords are the same as for your e-mail account. No 
+characters will be printed, but be careful about uppercase letters and 
+special characters.
+
+---
+Selma Dilek
+Research Assistant
+Hacettepe University, Computer Engineering Department
+http://cs.hacettepe.edu.tr/
+
+On 2017-10-07 18:35, Fatma Nurbüke Teker wrote:
+> Hello Teacher,
+> This time I have problem about Putty.I dowloaded all of the needed
+> programmes .And I login with my cs account.But then, when it ask me
+> the password , I wrote there but It said ''Access denied''.So I
+> couldn't writing code.But I sure about I writing the right password to
+> there.If you can help me I will be too happy.
+> 
+>                                                            Nurbüke
+> Teker

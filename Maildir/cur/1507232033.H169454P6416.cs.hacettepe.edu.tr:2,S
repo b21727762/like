@@ -1,0 +1,164 @@
+Return-path: <>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Thu, 05 Oct 2017 22:33:53 +0300
+Received: from mail.hacettepe.edu.tr ([193.140.216.18])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.89)
+	id 1e0Bu4-0001eE-Kc
+	for b21727762@cs.hacettepe.edu.tr; Thu, 05 Oct 2017 22:33:53 +0300
+Received: from localhost (localhost)
+	by mail.hacettepe.edu.tr  id v95JXpPE011136-v95JXqPE011151;
+	Thu, 5 Oct 2017 22:33:52 +0300
+Date: Thu, 5 Oct 2017 22:33:52 +0300
+From: postmaster <postmaster@hacettepe.edu.tr>
+Message-Id: <201710051933.v95JXpPE011136-v95JXqPE011151@mail.hacettepe.edu.tr>
+To: <b21727762@cs.hacettepe.edu.tr>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="v95JXpPE011136-v95JXqPE011151.1507232032/mail.hacettepe.edu.tr"
+Content-Transfer-Encoding: 8bit
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+X-Spam-Score: -0.5 (/)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  The original message was received at Thu, 5 Oct 2017 22:33:52
+    +0300 from: <b21727762@cs.hacettepe.edu.tr> ----- The following addresses
+    had permanent fatal errors ----- <hureg@hacettepe.edu.tr> (reason: 550 5.1.1
+    unknown or illegal alias: hureg@hacettepe.edu.tr) [...] 
+ 
+ Content analysis details:   (-0.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  1.4 RCVD_IN_BRBL_LASTEXT   RBL: No description available.
+                             [193.140.216.18 listed in bb.barracudacentral.org]
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+
+This is a MIME-encapsulated message
+
+--v95JXpPE011136-v95JXqPE011151.1507232032/mail.hacettepe.edu.tr
+Content-Type: text/plain
+
+The original message was received at Thu, 5 Oct 2017 22:33:52 +0300
+from:
+<b21727762@cs.hacettepe.edu.tr>
+
+   ----- The following addresses had permanent fatal errors -----
+<hureg@hacettepe.edu.tr>
+    (reason: 550 5.1.1 unknown or illegal alias: hureg@hacettepe.edu.tr)
+
+   ----- Transcript of session follows -----
+... while talking to hacettepe.edu.tr.:
+>>> DATA
+<<< 550 5.1.1 unknown or illegal alias: hureg@hacettepe.edu.tr
+550 5.1.1 unknown or illegal alias: hureg@hacettepe.edu.tr
+<<< 554 5.5.0 No recipients have been specified
+
+--v95JXpPE011136-v95JXqPE011151.1507232032/mail.hacettepe.edu.tr
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.hacettepe.edu.tr
+Received-From-MTA: DNS; email.cs.hacettepe.edu.tr
+Arrival-Date: Thu, 5 Oct 2017 22:33:52 +0300
+
+Final-Recipient: RFC822; hureg@hacettepe.edu.tr
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; hacettepe.edu.tr
+Diagnostic-Code: SMTP; 550 5.1.1 unknown or illegal alias: hureg@hacettepe.edu.tr
+Last-Attempt-Date: Thu, 5 Oct 2017 22:33:52 +0300
+
+--v95JXpPE011136-v95JXqPE011151.1507232032/mail.hacettepe.edu.tr
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <b21727762@cs.hacettepe.edu.tr>
+Received: from cs.hacettepe.edu.tr (email.cs.hacettepe.edu.tr [193.140.236.18])
+	by mail.hacettepe.edu.tr  with ESMTP id v95JXpPE011136-v95JXpPG011136
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <hureg@hacettepe.edu.tr>; Thu, 5 Oct 2017 22:33:52 +0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=cs.hacettepe.edu.tr; s=cs; h=Message-ID:Subject:To:From:Date:
+	Content-Transfer-Encoding:Content-Type:MIME-Version:Sender:Reply-To:Cc:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=FuSF/j1fFHtjnSbY/l+o2dAlerY5TEIJavRy2lsYtMk=; b=Q5lDQMf0CSuZJss0XMexwpirx
+	WNG6H6CjMjmwZRpI8gfq2Kjkn8rk9wXwbiQFouWa5meCpfoPEcCK4D8+UHPAI4V3DvZ8ZJ/zcTdkw
+	VYMBTAjUKyRpq2yjlGXHZA/74hhbl0ocJTCMBuV2UeV94b6rVxIIjaURw52NYz/o09CrY=;
+Received: from [127.0.0.1] (helo=webmail.cs.hacettepe.edu.tr)
+	by cs.hacettepe.edu.tr with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <b21727762@cs.hacettepe.edu.tr>)
+	id 1e0Bu3-0001d0-Lb
+	for hureg@hacettepe.edu.tr; Thu, 05 Oct 2017 22:33:51 +0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Thu, 05 Oct 2017 22:33:51 +0300
+From: =?UTF-8?Q?Fatma_Nurb=C3=BCke_Teker?= <b21727762@cs.hacettepe.edu.tr>
+To: hureg@hacettepe.edu.tr
+Subject: =?UTF-8?Q?=C3=87OOK_AC=C4=B0=C4=B0LLL_S=C4=B0STEM_SORUNU?=
+Message-ID: <c53733312542ab152d396749c644fe74@cs.hacettepe.edu.tr>
+X-Sender: b21727762@cs.hacettepe.edu.tr
+User-Agent: Roundcube Webmail/1.1.9
+X-Spam-Score: -1.4 (-)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  merhabalar Bilgisayar Mühendisliği 1.sınıf öğrencisiyim
+    sistemle ilgili bir sorun yaşıyorum ING111 dersini zorunlu almam gerekiyor.(hazırlığı
+    C1 ile geçtiğim için bu dersi almam gerektiğine dair mesaj geldi) Ancak
+    Ders kayıt sayfamda göremedim ve ekle sil haftasındayız seçemedim sistem
+    ders kaydımı onaylamış görünüyor yarın son gün CUMA GÜNÜ 17.30
+    dan önce bunu halletmem gerekiyor ancak danışmanıma da bir türlü ulaşamıyorum
+    ulaşsamda dersler arasında seçebileceğim böyle bir ders yok lütfen
+   sistemdeki sorunun giderilmesi konusunda ve bu dersi ekleyebilmem için yardımcı
+    olurmusunuz . TEŞEKKÜR EDERİM [...] 
+ 
+ Content analysis details:   (-1.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+  1.5 SUBJ_ALL_CAPS          Subject is all capitals
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+X-FEAS-SPF: pass, ip=193.140.236.18, helo=cs.hacettepe.edu.tr, mailFrom=b21727762@cs.hacettepe.edu.tr
+X-FEAS-DKIM: Valid
+Authentication-Results: mail.hacettepe.edu.tr;
+	spf=pass (hacettepe.edu.tr: domain of b21727762@cs.hacettepe.edu.tr designates 193.140.236.18 as permitted sender) smtp.mailfrom=b21727762@cs.hacettepe.edu.tr;
+	dkim=pass header.i=@cs.hacettepe.edu.tr
+
+merhabalar
+
+Bilgisayar Mühendisliği 1.sınıf öğrencisiyim
+sistemle ilgili bir sorun yaşıyorum ING111 dersini zorunlu almam 
+gerekiyor.(hazırlığı C1 ile geçtiğim için bu dersi almam gerektiğine 
+dair mesaj geldi) Ancak Ders kayıt sayfamda göremedim ve ekle sil 
+haftasındayız  seçemedim sistem ders kaydımı onaylamış görünüyor yarın 
+son gün CUMA GÜNÜ  17.30 dan önce bunu halletmem gerekiyor ancak 
+danışmanıma da bir türlü ulaşamıyorum ulaşsamda dersler arasında 
+seçebileceğim böyle bir ders yok  lütfen sistemdeki sorunun giderilmesi 
+konusunda ve bu dersi ekleyebilmem için yardımcı olurmusunuz . TEŞEKKÜR 
+EDERİM
+
+   ÖĞRENCİ NO 21727762
+
+FATMA NURBÜKE TEKER
+
+TEL:05078093634
+
+--v95JXpPE011136-v95JXqPE011151.1507232032/mail.hacettepe.edu.tr--
+

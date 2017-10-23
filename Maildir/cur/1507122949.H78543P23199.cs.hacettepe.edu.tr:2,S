@@ -1,0 +1,134 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Wed, 04 Oct 2017 16:15:49 +0300
+Received: from o2.sendgrid.piazza.com ([167.89.56.231])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1dzjWS-0005ap-Qw
+	for b21727762@cs.hacettepe.edu.tr; Wed, 04 Oct 2017 16:15:47 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:in-reply-to:references:subject:mime-version:content-type; 
+	s=s1; bh=NgHudZy53P9XXbPfrj4d31XX0wo=; b=Hu8SQ2Kmwj+tGuatojcOTJ8
+	6CUoRqJoLiWYmw7sXahoVSEDnjKEf11wjVYftI1nAPSSz7x5Hz1ti+uhQucruQNk
+	eiWwUK4R5Z6enx7WEhHeWWS1Lpg9SjiRrTV6RrdoYVFTNbAJ5uOVe9cUbSpJlEMB
+	+IYckG+bNYEtZveGNXnU=
+Received: by filter0447p1mdw1.sendgrid.net with SMTP id filter0447p1mdw1-838-59D4DEB8-9
+        2017-10-04 13:14:32.449825678 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-52-70-131-42.compute-1.amazonaws.com [52.70.131.42])
+	by ismtpd0025p1mdw1.sendgrid.net (SG) with ESMTP id KoVLyKTgQ3GbnT5dRZ2z7w
+	for <b21727762@cs.hacettepe.edu.tr>; Wed, 04 Oct 2017 13:14:32.392 +0000 (UTC)
+Date: Wed, 04 Oct 2017 13:14:32 +0000 (UTC)
+From: BBM 101 on Piazza <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <j8d21aa9hp65kz@piazza.com>
+In-Reply-To: <j8d21aa9hp65kz@piazza.com>
+References: <j8d21aa9hp65kz@piazza.com>
+Subject: [Instr Note] Lab Sections for Week 2.
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_21236_670239565.1507122872336"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCDgvrsa7zVs04wdhC1G/RbOuWGf+e5ndp2Ubv
+ 9WsLUeLIKnql9u41TSijO6Gmh+obO8VzI/Tts+MhtSKLcX1V3+ohx7Xdx/YCuvIX6ibWD5UuZU+CtV
+ 8DZyvlq05XkavH8yqU/77CbLGJEQTf/XJvTW2tFzPukxO2OLgyMsV1NtAwUgg8Zqn49ATWskgAwcuG
+ 8=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  You're receiving this email because b21727762@cs.hacettepe.edu.tr
+    is enrolled in BBM 101 at Hacettepe University. Instructor Selim YILMAZ posted
+    a new Note. Your instructor selected to notify everyone in real time of this
+    post, bypassing user email preferences. [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_21236_670239565.1507122872336
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_21235_180456981.1507122872336"
+
+------=_Part_21235_180456981.1507122872336
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. 
+
+Instructor Selim YILMAZ posted a new Note. Your instructor selected to notify everyone in real time of this post, bypassing user email preferences.
+
+Lab Sections for Week 2.
+
+Dear All,
+
+
+Arrangement of lab sections have now been completed. Please open the file attached to know which section you are in.
+
+Note: The section lists announced here are valid for only this week and will be rearranged after add&drop week.
+
+Section.pdf
+
+
+Go to https://piazza.com/class?cid=j8d21aa9hp65kz&nid=j805padu49776h&token=MChpgtco9XO to view. Search or link to this question with @11.  
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. Go to https://piazza.com/class?cid=j8d21aa9hp65kz&nid=j805padu49776h&token=MChpgtco9XO to set up your account or proceed to https://piazza.com/remove/MChpgtco9XO/j805padu49776h to un-enroll from this class.
+If you already have a Piazza account under another email address, link b21727762@cs.hacettepe.edu.tr to that account here: https://piazza.com/link_accounts/MChpgtco9XO
+------=_Part_21235_180456981.1507122872336
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. <br><br>Instructor Selim YILMAZ posted a new Note. Your instructor selected to notify everyone in real time of this post, bypassing user email preferences.<br><br>
+<b>Lab Sections for Week 2.</b><br>
+<br>
+<p>Dear All,</p>
+<p></p>
+<p></p>
+<p>Arrangement of lab sections have now been completed. Please open the file attached to know which section you are in.</p>
+<p></p>
+<p>Note: The section lists announced here are valid for only this week and will be rearranged after add&amp;drop week.</p>
+<p></p>
+<p><a href="https://d1b10bmlvqabco.cloudfront.net/attach/j805padu49776h/i0hmv4hv8lw6hx/j8d21l33ymf8/Section.pdf" target="_blank">Section.pdf</a></p>
+<p></p>
+<br>
+<br>
+<a href="https://piazza.com/class?cid=j8d21aa9hp65kz&nid=j805padu49776h&token=MChpgtco9XO">Click here</a> to view. Search or link to this question with @11.   <br><br>
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br><br><br>
+<font size='-2'>
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. <a href='https://piazza.com/class?cid=j8d21aa9hp65kz&nid=j805padu49776h&token=MChpgtco9XO'>Set up your account</a> or <a href='https://piazza.com/remove/MChpgtco9XO/j805padu49776h'>un-enroll</a> from this class.<br>If you already have a Piazza account under another email address, link b21727762@cs.hacettepe.edu.tr to that account <a href='https://piazza.com/link_accounts/MChpgtco9XO'>here</a>.</font>
+</html>
+
+------=_Part_21235_180456981.1507122872336--
+
+------=_Part_21236_670239565.1507122872336--

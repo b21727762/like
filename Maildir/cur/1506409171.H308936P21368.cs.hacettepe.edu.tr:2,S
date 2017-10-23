@@ -1,0 +1,100 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Tue, 26 Sep 2017 09:59:31 +0300
+Received: from o3.sendgrid.piazza.com ([167.89.56.233])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1dwjq3-00058F-F0
+	for b21727762@cs.hacettepe.edu.tr; Tue, 26 Sep 2017 09:59:30 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:references:subject:mime-version:content-type; s=s1; 
+	bh=HOCZ8QmeNZ9haruw/Vlxuov7M6g=; b=U674oIK0AYoukEwPdkTOG3jtXT2G8
+	wVzxEx8tL2u/JpgCToJnhOJ4I+Jaw4M051g5vg19MsQyR29soPDxWWo/gdrHDEQf
+	aJVeCqD90f8+EWaEoKVVGnZef0wOp61bkYHD9z9MmPOrtgaDIpi+0XXs1UQ4NQH5
+	UrU+B6pUFAnFzE=
+Received: by filter1107p1mdw1.sendgrid.net with SMTP id filter1107p1mdw1-8267-59C9FACD-1C
+        2017-09-26 06:59:25.579294603 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-52-70-131-42.compute-1.amazonaws.com [52.70.131.42])
+	by ismtpd0023p1mdw1.sendgrid.net (SG) with ESMTP id dX2Dxz2MTby-tLHtPkjeUQ
+	for <b21727762@cs.hacettepe.edu.tr>; Tue, 26 Sep 2017 06:59:25.592 +0000 (UTC)
+Date: Tue, 26 Sep 2017 06:59:25 +0000 (UTC)
+From: Piazza Team <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <353878389.424649.1506409165622@prod-qa-app02.ae.piazza.com>
+References: <j818sg9nw1m7cl_u@piazza.com>
+Subject: Confirmation of Enrollment in BBM 105 on Piazza
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_424648_1863127435.1506409165561"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCCH91ALmZNoazvkcAc2y/tyr1IqtinFoPXgip
+ lpPDTN50rJAnD6Ng3RKoGsJ7u86VlpC8UnCmrKvSb0gRrMM9rXZ6Wz0hbnrk6f1spV594ZTnEuQDed
+ TK9ueM4LkHk/TXt54imm7FP1TnSVHe1DYUy1t4argvhAsr6WXT1DdGFAOaZojui/aQ2OpCuhfwNO/Y
+ I=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  You've been enrolled in BBM 105 on Piazza. Go to http://piazza.com/hacettepe.edu.tr/fall2017/bbm105?token=MChpgtco9XO
+    to continue to your class. Or, if prompted, enter this activation code to
+    continue: MChpgtco9XO [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_424648_1863127435.1506409165561
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_424647_1727656123.1506409165561"
+
+------=_Part_424647_1727656123.1506409165561
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+You've been enrolled in BBM 105 on Piazza.
+
+Go to http://piazza.com/hacettepe.edu.tr/fall2017/bbm105?token=MChpgtco9XO to continue to your class.
+Or, if prompted, enter this activation code to continue: MChpgtco9XO
+
+And if you're looking for a job or internship, check out Piazza Careers - the next phase in Piazza's journey.
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+------=_Part_424647_1727656123.1506409165561
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<b>You've been enrolled in BBM 105 on Piazza.</b><br>
+<br>
+Go to http://piazza.com/hacettepe.edu.tr/fall2017/bbm105?token=MChpgtco9XO to continue to your class.<br>
+Or, if prompted, enter this activation code to continue: <b>MChpgtco9XO</b><br>
+<br>
+And if you're looking for a job or internship, check out <a href="https://piazza.com/careers/dashboard">Piazza Careers</a> - the next phase in Piazza's journey.<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br>
+</html>
+------=_Part_424647_1727656123.1506409165561--
+
+------=_Part_424648_1863127435.1506409165561--

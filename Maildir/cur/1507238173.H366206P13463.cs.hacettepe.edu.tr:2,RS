@@ -1,0 +1,253 @@
+Return-path: <selimy6887@gmail.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Fri, 06 Oct 2017 00:16:13 +0300
+Received: from mail-vk0-f49.google.com ([209.85.213.49])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <selimy6887@gmail.com>)
+	id 1e0DV5-0003U6-Td
+	for b21727762@cs.hacettepe.edu.tr; Fri, 06 Oct 2017 00:16:13 +0300
+Received: by mail-vk0-f49.google.com with SMTP id u128so8463063vkg.10
+        for <b21727762@cs.hacettepe.edu.tr>; Thu, 05 Oct 2017 14:16:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=mIiHd7dxHwGD0QoArefMyQrJ2Te5KtPM5ic7+0yV+xg=;
+        b=ljeVlMC3kvZH3UxTmclFh6KauGYopAZYln0FEfe93zf5vogw65h50ZQsQuaIQUJgQa
+         dVkNxEIpBEIP9XQoSTnmJ0Fjb8S58eogl5UHjULCPmBbjn2WoeR7gYZQL6KAZi0hMq+S
+         WW7x3vApYhDhvT/cLW/rdrDuv0WCHwufUxSqK118iBvE4eV89GM+6PonDhqFVd3MGwhz
+         W/Fdel9+Fp2DtSp/Evmn/TdzFwKPs81YimWToyHtygxX/LZg/l6BlQdfotpf/TScdfUc
+         Yh7JsDky2Y93643N4zEL3sZ5/8wDKbSnzL8jctOqsHPgnfUkhkwBZ89tYF6i4ezMNRZL
+         Zx+Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=mIiHd7dxHwGD0QoArefMyQrJ2Te5KtPM5ic7+0yV+xg=;
+        b=hOBP02ndDPBtZs1jsFXbDQweZ1gJVl5sTsrN9BNypvlChGvuqGfzlMl2/4/ETj7zKo
+         TTm2ZMjAjAVNZY4rDY6MkXVqOyCrxqeiXkDvlcwjrsVrGUnG5zXO6Z/1RCEpf4a00D0d
+         hQaQdcVepVx6/hFrDpwJyHI+ZbJzHInC1u2V6f4smItITC0n1GnNGwXT558PmGbt+9pY
+         5DEgITKMZYs1svYK71Nj5eErYTkYEdsn7b3zFswAQuvG2PfL8MhWKpSnvDzDAp3mUbto
+         C5V/xT+lYOHGgMHMrJ0TE+4GuVpR75LbogS8xNamCj5YMitZc+F9UWBEDQJVptI4uRE5
+         8iwg==
+X-Gm-Message-State: AMCzsaXEfDpOVtroGXuom4hulqWRG0HCe2Z1uZSt0khYwnG3xC/WiNa6
+	fcJFB8aYyJhjntzYn7N3lY5fm47NyUQx4fG1Gb8=
+X-Google-Smtp-Source: AOwi7QCGR1HuxM2rX3B6ux8AnEV/pfMX1U1hxOeqhnTdVNGpoN/Dka5BfWDLv14LVpKyL+lWsNuAHFALslhjB2g2v4I=
+X-Received: by 10.31.252.69 with SMTP id a66mr12480vki.33.1507238166467; Thu,
+ 05 Oct 2017 14:16:06 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.31.167.73 with HTTP; Thu, 5 Oct 2017 14:16:05 -0700 (PDT)
+Received: by 10.31.167.73 with HTTP; Thu, 5 Oct 2017 14:16:05 -0700 (PDT)
+In-Reply-To: <b88a29df88f2da5909b7c115e978503e@cs.hacettepe.edu.tr>
+References: <ccba3cdac22eb8966250a7851d6c3d2b@cs.hacettepe.edu.tr>
+ <ab37f9da0b9c097debc0fe57dec18413@cs.hacettepe.edu.tr> <1c1c1d2153fe0803013c5f1e9d95b634@cs.hacettepe.edu.tr>
+ <CAFkRZvvm2tTOLHQSdqCSXseTs4X7jHH7qZ9d-UA8VqJRufF-Yg@mail.gmail.com> <b88a29df88f2da5909b7c115e978503e@cs.hacettepe.edu.tr>
+From: Selim YILMAZ <selimy6887@gmail.com>
+Date: Fri, 6 Oct 2017 00:16:05 +0300
+Message-ID: <CAFkRZvv5M8mP50CJz99FFkuso6YFidQe7TOFqau3OmQtJ7dxGw@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IMSwTkcgMTExIGRlcnNp?=
+To: =?UTF-8?Q?Fatma_Nurb=C3=BCke_Teker?= <b21727762@cs.hacettepe.edu.tr>
+Content-Type: multipart/alternative; boundary="94eb2c14be7a8118c1055ad33b16"
+Received-DKIM: pass   gmail.com  relaxed/relaxed
+X-Spam-Score: -3.2 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  Ders seçimi ile ilgili sorun yaşıyorsan öğrenci işleri
+    ile görüşmen gerekir. Onun dışında ıng111 dersi 26-36 arası şubeleri
+    seçebilirsin, derslik bilgisi için daha önceden paylaşılan linke bakmalısın.
+    [...] 
+ 
+ Content analysis details:   (-3.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (selimy6887[at]gmail.com)
+  0.5 RCVD_IN_SORBS_SPAM     RBL: SORBS: sender is a spam source
+                             [209.85.213.49 listed in dnsbl.sorbs.net]
+ -0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.213.49 listed in wl.mailspike.net]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [209.85.213.49 listed in list.dnswl.org]
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (selimy6887[at]gmail.com)
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+
+--94eb2c14be7a8118c1055ad33b16
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Ders se=C3=A7imi ile ilgili sorun ya=C5=9F=C4=B1yorsan =C3=B6=C4=9Frenci i=
+=C5=9Fleri ile g=C3=B6r=C3=BC=C5=9Fmen
+gerekir. Onun d=C4=B1=C5=9F=C4=B1nda =C4=B1ng111 dersi 26-36 aras=C4=B1 =C5=
+=9Fubeleri se=C3=A7ebilirsin,
+derslik bilgisi i=C3=A7in daha =C3=B6nceden payla=C5=9F=C4=B1lan linke bakm=
+al=C4=B1s=C4=B1n.
+
+
+
+6 Eki 2017 =C3=96=C3=96 12:09 tarihinde "Fatma Nurb=C3=BCke Teker" <
+b21727762@cs.hacettepe.edu.tr> yazd=C4=B1:
+
+> 2017-10-05 22:37, Selim YILMAZ yazm=C4=B1=C5=9F:
+>
+>> Hangi =C5=9Fubeyi se=C3=A7tiniz?
+>>
+>> 5 Eki 2017 =C3=96S 10:14 tarihinde "Fatma Nurb=C3=BCke Teker"
+>> <b21727762@cs.hacettepe.edu.tr> yazd=C4=B1:
+>>
+>> 2017-10-02 20:07, Lisans Koordinat=C3=B6rl=C3=BC=C4=9F=C3=BC yazm=C4=B1=
+=C5=9F:
+>>> Merhaba,
+>>>
+>>> Dersin i=C5=9Flendi=C4=9Fi derslik hangi =C5=9Fubeyi se=C3=A7ti=C4=9Fin=
+ize g=C3=B6re
+>>> de=C4=9Fi=C5=9Fir.
+>>> A=C5=9Fa=C4=9F=C4=B1daki linkte =C5=9Fube-derslik bilgisi mevcut.
+>>>
+>>>
+>>> http://www.ydyo.hacettepe.edu.tr/tr/modern_diller_birimi_tarafinda-374
+>>
+>>> [1]
+>>>
+>>> =C4=B0yi g=C3=BCnler.
+>>>
+>>> On 2017-10-02 14:44, Fatma Nurb=C3=BCke Teker wrote:
+>>> Merhabalar
+>>> Haz=C4=B1rl=C4=B1=C4=9F=C4=B1 C1 ile ge=C3=A7tim =C4=B0ng 111 dersi zor=
+unlu olarak almam
+>>> gereken bir
+>>> ders olarak  biliyorum.ders program=C4=B1nda Pazartesi g=C3=BCn=C3=BC
+>>> 13.00-15.45
+>>> aras=C4=B1 g=C3=B6r=C3=BCnmesine ra=C4=9Fmen bu g=C3=BCn derslik bo=C5=
+=9Ftu ders g=C3=BCn=C3=BC ve
+>>> saati
+>>> konusunda bilgi alabilirmiyim
+>>>
+>>> te=C5=9Fekk=C3=BCrler
+>>>
+>>
+>> Evet yan=C4=B1t=C4=B1n=C4=B1z i=C3=A7in te=C5=9Fekk=C3=BCrler ancak tabl=
+oyu inceledim  en
+>> sa=C4=9Fdaki s=C3=BCtunda m=C3=BChendislik b=C3=B6l=C3=BCmleri ayr=C4=B1=
+ ayr=C4=B1 dersliklere
+>> g=C3=B6re belirtilmi=C5=9F ben bilgisayar m=C3=BChendisli=C4=9Fi b=C3=B6=
+l=C3=BCm=C3=BCndeyim =C3=B6yle
+>> bir =C5=9Fey g=C3=B6remedim Ayr=C4=B1ca der kayd=C4=B1nda se=C3=A7mem i=
+=C3=A7in =C4=B1ng111
+>> dersini g=C3=B6remedim ve se=C3=A7emedim
+>>
+>>
+>> Links:
+>> ------
+>> [1] http://www.ydyo.hacettepe.edu.tr/tr/modern_diller_birimi_tar
+>> afinda-374
+>>
+> Ders kay=C4=B1t ekran=C4=B1nda =C3=A7=C4=B1kmad=C4=B1=C4=9F=C4=B1 i=C3=A7=
+in herhangi bir se=C3=A7im yapamad=C4=B1m hocam
+> zorunlu ba=C5=9Far=C4=B1s=C4=B1z ders se=C3=A7meli ders zorunlu ders heps=
+ine bakt=C4=B1m hi=C3=A7 birinde
+> bu ders g=C3=B6r=C3=BCnm=C3=BCyor benim sistemimde bir sorunmu var acaba =
+nas=C4=B1l eklenecek
+> ilginize te=C5=9Fekk=C3=BCr ederim
+>
+
+--94eb2c14be7a8118c1055ad33b16
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Ders se=C3=A7imi ile ilgili sorun ya=C5=9F=C4=B1yorsan =
+=C3=B6=C4=9Frenci i=C5=9Fleri ile g=C3=B6r=C3=BC=C5=9Fmen gerekir. Onun d=
+=C4=B1=C5=9F=C4=B1nda =C4=B1ng111 dersi 26-36 aras=C4=B1 =C5=9Fubeleri se=
+=C3=A7ebilirsin, derslik bilgisi i=C3=A7in daha =C3=B6nceden payla=C5=9F=C4=
+=B1lan linke bakmal=C4=B1s=C4=B1n.<div dir=3D"auto"><br></div><div dir=3D"a=
+uto"><br></div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quo=
+te">6 Eki 2017 =C3=96=C3=96 12:09 tarihinde &quot;Fatma Nurb=C3=BCke Teker&=
+quot; &lt;<a href=3D"mailto:b21727762@cs.hacettepe.edu.tr">b21727762@cs.hac=
+ettepe.edu.tr</a>&gt; yazd=C4=B1:<br type=3D"attribution"><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex">2017-10-05 22:37, Selim YILMAZ yazm=C4=B1=C5=9F:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+Hangi =C5=9Fubeyi se=C3=A7tiniz?<br>
+<br>
+5 Eki 2017 =C3=96S 10:14 tarihinde &quot;Fatma Nurb=C3=BCke Teker&quot;<br>
+&lt;<a href=3D"mailto:b21727762@cs.hacettepe.edu.tr" target=3D"_blank">b217=
+27762@cs.hacettepe.edu.tr</a><wbr>&gt; yazd=C4=B1:<br>
+<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+2017-10-02 20:07, Lisans Koordinat=C3=B6rl=C3=BC=C4=9F=C3=BC yazm=C4=B1=C5=
+=9F:<br>
+Merhaba,<br>
+<br>
+Dersin i=C5=9Flendi=C4=9Fi derslik hangi =C5=9Fubeyi se=C3=A7ti=C4=9Finize =
+g=C3=B6re<br>
+de=C4=9Fi=C5=9Fir.<br>
+A=C5=9Fa=C4=9F=C4=B1daki linkte =C5=9Fube-derslik bilgisi mevcut.<br>
+<br>
+<br>
+</blockquote>
+<a href=3D"http://www.ydyo.hacettepe.edu.tr/tr/modern_diller_birimi_tarafin=
+da-374" rel=3D"noreferrer" target=3D"_blank">http://www.ydyo.hacettepe.edu.=
+<wbr>tr/tr/modern_diller_birimi_tar<wbr>afinda-374</a><br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+[1]<br>
+<br>
+=C4=B0yi g=C3=BCnler.<br>
+<br>
+On 2017-10-02 14:44, Fatma Nurb=C3=BCke Teker wrote:<br>
+Merhabalar<br>
+Haz=C4=B1rl=C4=B1=C4=9F=C4=B1 C1 ile ge=C3=A7tim =C4=B0ng 111 dersi zorunlu=
+ olarak almam<br>
+gereken bir<br>
+ders olarak=C2=A0 biliyorum.ders program=C4=B1nda Pazartesi g=C3=BCn=C3=BC<=
+br>
+13.00-15.45<br>
+aras=C4=B1 g=C3=B6r=C3=BCnmesine ra=C4=9Fmen bu g=C3=BCn derslik bo=C5=9Ftu=
+ ders g=C3=BCn=C3=BC ve<br>
+saati<br>
+konusunda bilgi alabilirmiyim<br>
+<br>
+te=C5=9Fekk=C3=BCrler<br>
+</blockquote>
+<br>
+Evet yan=C4=B1t=C4=B1n=C4=B1z i=C3=A7in te=C5=9Fekk=C3=BCrler ancak tabloyu=
+ inceledim=C2=A0 en<br>
+sa=C4=9Fdaki s=C3=BCtunda m=C3=BChendislik b=C3=B6l=C3=BCmleri ayr=C4=B1 ay=
+r=C4=B1 dersliklere<br>
+g=C3=B6re belirtilmi=C5=9F ben bilgisayar m=C3=BChendisli=C4=9Fi b=C3=B6l=
+=C3=BCm=C3=BCndeyim =C3=B6yle<br>
+bir =C5=9Fey g=C3=B6remedim Ayr=C4=B1ca der kayd=C4=B1nda se=C3=A7mem i=C3=
+=A7in =C4=B1ng111<br>
+dersini g=C3=B6remedim ve se=C3=A7emedim<br>
+<br>
+<br>
+Links:<br>
+------<br>
+[1] <a href=3D"http://www.ydyo.hacettepe.edu.tr/tr/modern_diller_birimi_tar=
+afinda-374" rel=3D"noreferrer" target=3D"_blank">http://www.ydyo.hacettepe.=
+edu.<wbr>tr/tr/modern_diller_birimi_tar<wbr>afinda-374</a><br>
+</blockquote>
+Ders kay=C4=B1t ekran=C4=B1nda =C3=A7=C4=B1kmad=C4=B1=C4=9F=C4=B1 i=C3=A7in=
+ herhangi bir se=C3=A7im yapamad=C4=B1m hocam zorunlu ba=C5=9Far=C4=B1s=C4=
+=B1z ders se=C3=A7meli ders zorunlu ders hepsine bakt=C4=B1m hi=C3=A7 birin=
+de bu ders g=C3=B6r=C3=BCnm=C3=BCyor benim sistemimde bir sorunmu var acaba=
+ nas=C4=B1l eklenecek ilginize te=C5=9Fekk=C3=BCr ederim<br>
+</blockquote></div></div>
+
+--94eb2c14be7a8118c1055ad33b16--

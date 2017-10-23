@@ -1,0 +1,117 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Wed, 27 Sep 2017 19:14:26 +0300
+Received: from o2.sendgrid.piazza.com ([167.89.56.231])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1dxEyc-000792-Re
+	for b21727762@cs.hacettepe.edu.tr; Wed, 27 Sep 2017 19:14:25 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:in-reply-to:references:subject:mime-version:content-type; 
+	s=s1; bh=PDXsVqAq6xmTrUCysvArdfb6EJk=; b=E6kcgVNVZ+m7CeAn3zYTVPQ
+	wBA5z9QwN4dgjjXeJ32j9babz7hu+zpb3bNtmf8w+GSif/TS51akehGaTrvoNYtN
+	XFXLQyC8Jy643wnc6L1iqwFfMZ1w77wN+rF/lG9clgFQSeFCXxOE1Rg5Jod+cCLS
+	r/YbbdF2ltu4b45TWEB8=
+Received: by filter1073p1mdw1.sendgrid.net with SMTP id filter1073p1mdw1-19996-59CBCE3A-10
+        2017-09-27 16:13:46.41287779 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-34-202-251-202.compute-1.amazonaws.com [34.202.251.202])
+	by ismtpd0033p1mdw1.sendgrid.net (SG) with ESMTP id NCmlVc42SGeeqsAPIy9GRw
+	for <b21727762@cs.hacettepe.edu.tr>; Wed, 27 Sep 2017 16:13:46.394 +0000 (UTC)
+Date: Wed, 27 Sep 2017 16:13:46 +0000 (UTC)
+From: BBM 101 on Piazza <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <j838ck8ma5lkk@piazza.com>
+In-Reply-To: <j838ck8ma5lkk@piazza.com>
+References: <j838ck8ma5lkk@piazza.com>
+Subject: Reference Books
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_83392_1854593605.1506528826340"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCAMKNiYGu5w5p4vYTmbUo6EP4ZkdDqVkh8x4d
+ 5vJ16RhVb0r6mIlBxzrAM4I+u+6y7586YvaP4dZMmwRWzJ21lChPRRjKbxHWLevgEjGbapo4Y7+y+N
+ Y9SV19b71/arIlTbYzccwf3VnhXEMqBprBQvxGwR1tuXTYnjWN8dOXJ+iGq0Vr28vffE/syqj30+Jl
+ 0=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  You're receiving this email because b21727762@cs.hacettepe.edu.tr
+    is enrolled in BBM 101 at Hacettepe University. Your classmate posted a new
+    Note. Reference Books [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_83392_1854593605.1506528826340
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_83391_495655639.1506528826340"
+
+------=_Part_83391_495655639.1506528826340
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. 
+
+Your classmate posted a new Note. 
+
+Reference Books
+
+LINK
+
+Go to https://piazza.com/class?cid=j838ck8ma5lkk&nid=j805padu49776h&token=MChpgtco9XO to view. Search or link to this question with @6.  
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. Go to https://piazza.com/class?cid=j838ck8ma5lkk&nid=j805padu49776h&token=MChpgtco9XO to set up your account or proceed to https://piazza.com/remove/MChpgtco9XO/j805padu49776h to un-enroll from this class.
+If you already have a Piazza account under another email address, link b21727762@cs.hacettepe.edu.tr to that account here: https://piazza.com/link_accounts/MChpgtco9XO
+------=_Part_83391_495655639.1506528826340
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. <br><br>Your classmate posted a new Note. <br><br>
+<b>Reference Books</b><br>
+<br>
+<p><a href="https://www.dropbox.com/sh/5os9t2ojiasvq3a/AADrygyGK-0jJcmfL0EolL_Ma?dl=0" target="_blank">LINK</a></p>
+<br>
+<br>
+<a href="https://piazza.com/class?cid=j838ck8ma5lkk&nid=j805padu49776h&token=MChpgtco9XO">Click here</a> to view. Search or link to this question with @6.   <br><br>
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's free!<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br><br><br>
+<font size='-2'>
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enrolled in BBM 101 at Hacettepe University. <a href='https://piazza.com/class?cid=j838ck8ma5lkk&nid=j805padu49776h&token=MChpgtco9XO'>Set up your account</a> or <a href='https://piazza.com/remove/MChpgtco9XO/j805padu49776h'>un-enroll</a> from this class.<br>If you already have a Piazza account under another email address, link b21727762@cs.hacettepe.edu.tr to that account <a href='https://piazza.com/link_accounts/MChpgtco9XO'>here</a>.</font>
+</html>
+
+------=_Part_83391_495655639.1506528826340--
+
+------=_Part_83392_1854593605.1506528826340--

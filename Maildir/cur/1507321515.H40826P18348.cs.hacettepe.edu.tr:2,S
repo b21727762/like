@@ -1,0 +1,132 @@
+Return-path: <noreply@github.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Fri, 06 Oct 2017 23:25:15 +0300
+Received: from github-smtp2-ext8.iad.github.net ([192.30.252.199] helo=github-smtp2a-ext-cp1-prd.iad.github.net)
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <noreply@github.com>)
+	id 1e0ZBK-0004kg-1W
+	for b21727762@cs.hacettepe.edu.tr; Fri, 06 Oct 2017 23:25:14 +0300
+Date: Fri, 06 Oct 2017 13:25:11 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1507321512;
+	bh=8xUr9/FdV7x29eFFTR5Xqoo4K+FDeA5FfIi2QdJsJjM=;
+	h=From:To:Subject:From;
+	b=m13GRWwbhh2ONSyfhXpnpzral90IQtb22l8dOHvMx1PAgkDLPJ5ODh1hoEvKsqPy4
+	 mDm63jf/lJntE6829C+JN7Tb99GfsKTN7ILuzzvfdmDjN4pTGJgsiuQPCQIL0ay4DY
+	 2EkSSyurzxjiHFLdHHPab0x2eYwO3D7pIZ3PJGRM=
+From: GitHub <noreply@github.com>
+To: Bright-paw <b21727762@cs.hacettepe.edu.tr>
+Message-ID: <59d7e6a7ed5a9_625a3f9c9d38af30311e8@github-highworker4-cp1-prd.iad.github.net.mail>
+Subject: [GitHub] Please verify your email address.
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_59d7e6a7ec257_625a3f9c9d38af3031095";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+Received-DKIM: pass   github.com  relaxed/relaxed
+X-Spam-Score: -8.9 (--------)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  Hi @Bright-paw! Help us secure your GitHub account by verifying
+    your email address (b21727762@cs.hacettepe.edu.tr). This lets you access
+   all of GitHub's features. Click the link below to verify your email address:
+    https://github.com/users/Bright-paw/emails/38310615/confirm_verification/25c68264a9caaf3e8087a109afd7fdcc156dee0e
+    [...] 
+ 
+ Content analysis details:   (-8.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_MSPIKE_H4      RBL: Very Good reputation (+4)
+                             [192.30.252.199 listed in wl.mailspike.net]
+ -5.0 RCVD_IN_DNSWL_HI       RBL: Sender listed at http://www.dnswl.org/, high
+                             trust
+                             [192.30.252.199 listed in list.dnswl.org]
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+
+
+----==_mimepart_59d7e6a7ec257_625a3f9c9d38af3031095
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi @Bright-paw!
+
+Help us secure your GitHub account by verifying your email address (b2172=
+7762@cs.hacettepe.edu.tr). This lets you access all of GitHub's features.=
+
+
+Click the link below to verify your email address:
+https://github.com/users/Bright-paw/emails/38310615/confirm_verification/=
+25c68264a9caaf3e8087a109afd7fdcc156dee0e
+
+You=E2=80=99re receiving this email because you recently created a new Gi=
+tHub account or added a new email address. If this wasn=E2=80=99t you, pl=
+ease ignore this email.
+
+---
+Sent with <3 by GitHub.
+GitHub, Inc. 88 Colin P Kelly Jr Street
+San Francisco, CA 94107
+
+----==_mimepart_59d7e6a7ec257_625a3f9c9d38af3031095
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>
+  Hi <strong>@Bright-paw</strong>!
+</p>
+<p>
+  Help us secure your GitHub account by verifying your email address
+  (<a class="plaintext" href="mailto:b21727762@cs.hacettepe.edu.tr">b21727762@cs.hacettepe.edu.tr</a>).
+    This lets you access all of GitHub's features.
+</p>
+
+<!-- note: VML markup is fallback for Outlook 2007, 2010, and 2013; see http://buttons.cm/ -->
+<div class="cta-button-wrap cta-button-wrap-centered">
+<!--[if mso]>
+<p style="line-height:0px;height:0;font-size:1px;margin:0;padding:0;">&nbsp;</p>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://github.com/users/Bright-paw/emails/38310615/confirm_verification/25c68264a9caaf3e8087a109afd7fdcc156dee0e?utm_campaign=github-email-verification&amp;utm_content=html&amp;utm_medium=email&amp;utm_source=verification-email" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="8%" stroke="f" fillcolor="#4183C4">
+  <w:anchorlock/>
+  <center>
+<![endif]-->
+    <a class="cta-button" href="https://github.com/users/Bright-paw/emails/38310615/confirm_verification/25c68264a9caaf3e8087a109afd7fdcc156dee0e?utm_campaign=github-email-verification&amp;utm_content=html&amp;utm_medium=email&amp;utm_source=verification-email">Verify email address</a>
+<!--[if mso]>
+  </center>
+</v:roundrect>
+<![endif]-->
+</div>
+
+
+<hr>
+
+<p class="email-text-small email-text-gray">
+  Button not working? Paste the following link into your browser:<br>
+  <a href="https://github.com/users/Bright-paw/emails/38310615/confirm_verification/25c68264a9caaf3e8087a109afd7fdcc156dee0e?utm_campaign=github-email-verification&amp;utm_content=html&amp;utm_medium=email&amp;utm_source=verification-email">https://github.com/users/Bright-paw/emails/38310615/confirm_verification/25c68264a9caaf3e8087a109afd7fdcc156dee0e</a>
+</p>
+
+<p class="email-text-small email-text-gray">
+  You&#8217;re receiving this email because you recently
+  created a new GitHub account or added a new email address.
+  If this wasn&#8217;t you, please ignore this email.
+</p>
+</body></html>
+
+----==_mimepart_59d7e6a7ec257_625a3f9c9d38af3031095--

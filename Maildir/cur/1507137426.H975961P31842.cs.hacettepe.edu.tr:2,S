@@ -1,0 +1,151 @@
+Return-path: <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>
+Envelope-to: b21727762@cs.hacettepe.edu.tr
+Delivery-date: Wed, 04 Oct 2017 20:17:07 +0300
+Received: from o2.sendgrid.piazza.com ([167.89.56.231])
+	by cs.hacettepe.edu.tr with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <bounces+5126-9b56-b21727762=cs.hacettepe.edu.tr@send.piazza.com>)
+	id 1dznI4-0007r8-7V
+	for b21727762@cs.hacettepe.edu.tr; Wed, 04 Oct 2017 20:17:05 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=piazza.com; 
+	h=from:to:in-reply-to:references:subject:mime-version:content-type; 
+	s=s1; bh=fJqARKgj15h+REkKefF6+N83eU0=; b=Xp2P/NcHm9HPCMs/NkhYzTH
+	MDPnTTFEvc2dXRjksw1eDF2UdSrKsCxN8yCDAcJWOrJFJX83Iht5m8kkXb3XwA9b
+	q9dnxNrNxD5sL7h3sIbNxXYeHYzhkRQPpombGkS8mjds2AAdflHqUKTMKuI2akrj
+	zqfPjZDuxn3QR/b0L/VY=
+Received: by filter0847p1mdw1.sendgrid.net with SMTP id filter0847p1mdw1-19501-59D51766-9
+        2017-10-04 17:16:22.490331364 +0000 UTC
+Received: from 44nstxgkun.smtp.sendgrid.net (ec2-34-202-251-202.compute-1.amazonaws.com [34.202.251.202])
+	by ismtpd0036p1mdw1.sendgrid.net (SG) with ESMTP id YINEq4IxTO6Ot0i1j2FaqQ
+	for <b21727762@cs.hacettepe.edu.tr>; Wed, 04 Oct 2017 17:16:22.546 +0000 (UTC)
+Date: Wed, 04 Oct 2017 17:16:22 +0000 (UTC)
+From: BBM 105 on Piazza <no-reply@piazza.com>
+To: b21727762@cs.hacettepe.edu.tr
+Message-ID: <j8daoguw2el9g@piazza.com>
+In-Reply-To: <j8daoguw2el9g@piazza.com>
+References: <j8daoguw2el9g@piazza.com>
+Subject: [Instr Note] 3rd Week Announcement  - 10th October
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_103102_989310293.1507137382485"
+X-SG-EID: 1fjjpdG95ro2h0wH2tmfKs7s3+T58E/VgOszbXuPKCAsfIk3JzCpFSKuoQfmH6JWbRnWpMDLuYcGPf
+ 2d+sHvcF+hw8UoljuTEztnPWqxdr/XCvrOaEqI3BtJwKGKc/S10+7YgJ1SlQb2anveqBpxrlTFGMt2
+ sqK6yFc516bsmJEPRyOU5RhcgZhtxWk2xCNcSgspHnLQQXqId61mcCm+8s95dK3Jfn+++JAzITwQ68
+ s=
+Received-DKIM: pass   piazza.com  relaxed/relaxed
+X-Spam-Score: -3.9 (---)
+X-Spam-Report: Spam detection software, running on the system "email.cs.hacettepe.edu.tr",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  You're receiving this email because b21727762@cs.hacettepe.edu.tr
+    is enrolled in BBM 105 at Hacettepe University. Instructor Aydın Kaya posted
+    a new Note. Your instructor selected to notify everyone in real time of this
+    post, bypassing user email preferences. [...] 
+ 
+ Content analysis details:   (-3.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -1.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+
+------=_Part_103102_989310293.1507137382485
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_103101_916159985.1507137382485"
+
+------=_Part_103101_916159985.1507137382485
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 105 at Hacettepe University.=20
+
+Instructor Ayd=C4=B1n Kaya posted a new Note. Your instructor selected to n=
+otify everyone in real time of this post, bypassing user email preferences.
+
+3rd Week Announcement  - 10th October
+
+Dear all,
+
+We will be starting our class at 10:00 for both sections on 10th October.
+
+See you in class.
+
+Go to https://piazza.com/class?cid=3Dj8daoguw2el9g&nid=3Dj804ya9dg7s6en&tok=
+en=3DMChpgtco9XO to view. Search or link to this question with @7.=20=20
+
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!
+
+Thanks,
+The Piazza Team
+--
+Contact us at team@piazza.com
+
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 105 at Hacettepe University. Go to https://piazza.com/class?cid=
+=3Dj8daoguw2el9g&nid=3Dj804ya9dg7s6en&token=3DMChpgtco9XO to set up your ac=
+count or proceed to https://piazza.com/remove/MChpgtco9XO/j804ya9dg7s6en to=
+ un-enroll from this class.
+If you already have a Piazza account under another email address, link b217=
+27762@cs.hacettepe.edu.tr to that account here: https://piazza.com/link_acc=
+ounts/MChpgtco9XO=
+
+------=_Part_103101_916159985.1507137382485
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 105 at Hacettepe University. <br><br>Instructor Ayd=C4=B1n Kaya p=
+osted a new Note. Your instructor selected to notify everyone in real time =
+of this post, bypassing user email preferences.<br><br>
+<b>3rd Week Announcement  - 10th October</b><br>
+<br>
+<p>Dear all,</p>
+<p></p>
+<p>We will be starting our class at 10:00 for both sections on 10th October=
+.</p>
+<p></p>
+<p>See you in class.</p>
+<br>
+<br>
+<a href=3D"https://piazza.com/class?cid=3Dj8daoguw2el9g&nid=3Dj804ya9dg7s6e=
+n&token=3DMChpgtco9XO">Click here</a> to view. Search or link to this quest=
+ion with @7.   <br><br>
+Want Piazza in all your classes?  Tell your professors and TAs today.  It's=
+ free!<br>
+<br>
+Thanks,<br>
+The Piazza Team<br>
+--<br>
+Contact us at team@piazza.com<br><br><br>
+<font size=3D'-2'>
+You're receiving this email because b21727762@cs.hacettepe.edu.tr is enroll=
+ed in BBM 105 at Hacettepe University. <a href=3D'https://piazza.com/class?=
+cid=3Dj8daoguw2el9g&nid=3Dj804ya9dg7s6en&token=3DMChpgtco9XO'>Set up your a=
+ccount</a> or <a href=3D'https://piazza.com/remove/MChpgtco9XO/j804ya9dg7s6=
+en'>un-enroll</a> from this class.<br>If you already have a Piazza account =
+under another email address, link b21727762@cs.hacettepe.edu.tr to that acc=
+ount <a href=3D'https://piazza.com/link_accounts/MChpgtco9XO'>here</a>.</fo=
+nt>
+</html>
+
+------=_Part_103101_916159985.1507137382485--
+
+------=_Part_103102_989310293.1507137382485--
