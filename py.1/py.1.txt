@@ -50,3 +50,21 @@ elif delta == 0 :
 else:
     print('The solution is not real but complex')
 
+ a = ('a'ya değer verin')
+b = ('b'ye değer verin')
+c = ('c'ye değer verin')
+delta = b**2 - 4*a*c
+if delta > 0 :
+    def find_delta(x):
+        return (-1 * b - (b**2 - 4*a*c)**0.5)/ 2*a
+        print(find_delta(x) +'there is one solution')
+    def find_delta(x):
+        return (-b + (b**2 - 4*a*c)**0.5)/ 2*a
+        print(find_delta(x) + 'there is one solution')
+elif delta == 0 :
+    def find_delta(x):
+        return -b/2*a
+        print(find_delta(x) +  'there is two solution')
+else:
+    print('The solution is not real but complex')
+ 
